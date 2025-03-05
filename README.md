@@ -66,6 +66,3 @@ $ pip install -r requirements.txt
 $ python3 src/holamundo_pyside6/holamundo.py
 ```
 
-Nos mostrará la aplicación *holamundo_pyside6* en ejecución.
-
-![PySide6 Ejemplo](https://upload.wikimedia.org/wikipedia/commons/8/8a/PySide_logo.png)
